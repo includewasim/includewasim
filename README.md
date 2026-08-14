@@ -106,7 +106,7 @@ I build things end-to-end — from full-stack web apps to full infrastructure pl
 <img src="https://raw.githubusercontent.com/includewasim/includewasim/output/github-contribution-grid-snake.svg" />
 </div>
 
-> **Note:** the snake animation above renders only after adding the GitHub Action below to this repo — see setup instructions at the bottom.
+
 
 ---
 
