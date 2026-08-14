@@ -8,7 +8,6 @@
 <a href="https://wasimkhan.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=includewasim&style=for-the-badge&color=2E3192&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -26,7 +25,6 @@ I build things end-to-end — from full-stack web apps to full infrastructure pl
 - 🌱 Currently deepening **AWS networking internals, Kubernetes RBAC/scheduling, and Terraform state management**
 - 💬 Ask me about **Kubernetes, Terraform, GitOps, or why your VPC peering isn't working** (I wrote a tool for that — [vpc-validator](https://github.com/includewasim/vpc-validator))
 - 📍 Based in India
-- ⚡ Fun fact: I got here by shipping full-stack apps first, then fell down the platform-engineering rabbit hole
 
 ---
 
@@ -37,7 +35,7 @@ I build things end-to-end — from full-stack web apps to full infrastructure pl
 **Platform / DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,bash&theme=light" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black" />
@@ -52,68 +50,81 @@ I build things end-to-end — from full-stack web apps to full infrastructure pl
 
 ### 🚀 Featured Projects
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[🏗️ self-service-infra-platform](https://github.com/includewasim/self-service-infra-platform)**
+
+Self-service infra catalog — Backstage + Terraform + ArgoCD, with an AI review layer that can **block** risky infra changes before they're applied, not just log them.
+
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[🔍 vpc-validator](https://github.com/includewasim/vpc-validator)**
+
+Diagnoses why AWS VPC peering isn't working — checks CIDR overlap, peering status, route tables, and security group rules, and tells you exactly which step is failing.
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🛒 E-Commerce](https://github.com/includewasim/E-Commerce)**
+
+Full-stack MERN e-commerce app — product/category management, secure auth, payment integration, order tracking, and an admin dashboard.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[💬 FireChat](https://github.com/includewasim/FireChat)**
+
+Real-time chat app with authentication, live messaging, and document sharing — built on Firebase Authentication and Firestore.
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🌍 EarthQuake_Visualizer](https://github.com/includewasim/EarthQuake_Visualizer)**
+
+Visualizes real earthquake activity from the past 24 hours on an interactive map and chart, pulling live data from a public API.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[✈️ trip-mate-ai-web](https://github.com/includewasim/trip-mate-ai-web)**
+
+AI-driven trip planner using Google Gemini to generate personalized travel itineraries, with Google OAuth sign-in.
+
+![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/includewasim/self-service-infra-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=includewasim&repo=self-service-infra-platform&theme=default&border_color=2E3192" />
+<a href="https://github.com/includewasim?tab=repositories">
+  <img src="https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/includewasim/vpc-validator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=includewasim&repo=vpc-validator&theme=default&border_color=2E3192" />
-</a>
-
-<a href="https://github.com/includewasim/E-Commerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=includewasim&repo=E-Commerce&theme=default&border_color=2E3192" />
-</a>
-<a href="https://github.com/includewasim/FireChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=includewasim&repo=FireChat&theme=default&border_color=2E3192" />
-</a>
-
-<a href="https://github.com/includewasim/EarthQuake_Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=includewasim&repo=EarthQuake_Visualizer&theme=default&border_color=2E3192" />
-</a>
-<a href="https://github.com/includewasim/trip-mate-ai-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=includewasim&repo=trip-mate-ai-web&theme=default&border_color=2E3192" />
-</a>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=includewasim&show_icons=true&theme=default&border_color=2E3192&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=includewasim&layout=compact&theme=default&border_color=2E3192&hide_border=false" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=includewasim&theme=default&border=2E3192&hide_border=false" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=includewasim&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/includewasim/includewasim/output/github-contribution-grid-snake.svg" />
-</div>
-
-
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=includewasim&theme=react-dark&hide_border=true&bg_color=ffffff&color=2E3192&line=2E3192&point=1BFFFF" />
 </div>
 
 ---
