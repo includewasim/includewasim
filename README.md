@@ -40,6 +40,14 @@ I build things end-to-end — from full-stack web apps to full infrastructure pl
 <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black" />
 
+**Observability / Monitoring**
+
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+<img src="https://img.shields.io/badge/-SigNoz-FFC24A?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/-New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+<img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+
 **Development**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,mongodb,firebase,python,cpp,html,css,tailwind&theme=light" />
